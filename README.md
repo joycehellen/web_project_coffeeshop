@@ -1,77 +1,9 @@
 # Triple Espresso
-.footer {
-  box-sizing: border-box;
-  background-color: #0A2850;
-  color: #ffffff;
-  max-width: 100%;
-}
 
-.footer__content {
-  display: flex;
-  margin: 60px 80px 184px 80px;
-}
+# Joyce's Coffee Shop
 
-.footer__logo {
-  width: 105px;
-  height: 39px;
-}
+# O desenvolvimento da página web sobre uma biblioteca com uma cafeteria é um projeto focado em proporcionar uma navegação intuitiva e interativa, combinando a paixão pela leitura com o prazer de um bom cafezinho. A página apresenta informações como localização, dicas de receitas e horário de funcionamento, criando uma experiência agradável e envolvente para os visitantes. Além disso, oferece links para redes sociais, facilitando o contato com a cafeteria, e também compartilha dicas de receitas.
 
-.footer__circle {
-  background-image: ("images/favicon_circles.ico");
-  display: flex;
-  position: absolute;
-  z-index: 4;
-  top: 128px;
-  left: 44px;
-}
+# Para desenvolver a página web, foi usado o HTML5 para a estrutura e o CSS3 para a estilização, incluindo layouts.
 
-.footer__social {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-.footer__social_heading {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-.footer__list {
-  list-style-type: none;
-  margin: 80;
-  top: 20px;
-  bottom: 16px;
-}
-
-.footer__list-item {
-  margin-right: 80px;
-}
-
-.footer__socilal_link {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-  top: 20px;
-  bottom: 16px;
-}
-
-.footer__social-icon {
-  pad: 10px;
-}
-
-.footer__copyright {
-  margin-top: 108px;
-  margin-bottom: 60;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-}
+# Ideias de melhorias futuras para o projeto: adicionar um sistema de pedidos online, permitindo que usuários reservem seus pedidos antes de visitar a biblioteca; incluir uma seção de eventos, como clubes do livro e noites de poesia; adicionar um modo leitura para melhorar a experiência de leitura no site e criar um mapa interativo mostrando a localização das seções de livros dentro da biblioteca.
