@@ -1,16 +1,13 @@
-.content {
-  background-color: #0a2850;
-  background-image: url("../images/background_recipes.svg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
 .recipes {
   justify-content: center;
   display: flex;
   flex-direction: column;
   padding: 100px 0 215px 80px;
+  background-color: #0a2850;
+  background-image: url("../images/background_recipes.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .recipes__title {
