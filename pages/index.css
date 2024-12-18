@@ -8,4 +8,30 @@
 @import url("../blocks/recipes.css");
 @import url("../blocks/reservation.css");
 
+.reservation {
+  padding-top: 100px;
+  padding-bottom: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  background-image: url("../images/background_reservation.svg");
+  background-color: #d9e7ff;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.reservation__title {
+  margin: 0 auto 80px;
+  text-align: center;
+  color: #000;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+
 /* o resto de seus estilos CSS */
