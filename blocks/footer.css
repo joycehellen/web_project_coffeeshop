@@ -7,6 +7,7 @@
   padding: 60px 80px;
   display: flex;
   flex-wrap: wrap;
+  overflow: hidden;
 }
 
 .footer__content {
